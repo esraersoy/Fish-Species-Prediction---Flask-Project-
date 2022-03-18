@@ -28,5 +28,5 @@ Random Forest Algorithm is used for the ML modelling.
 
 ### Getting Started
 
-The application can be tested via the cloud-based Heroku link here:
+The application can be tested via cloud-based Heroku link here:
 https://fish-species-prediction-with-f.herokuapp.com/
